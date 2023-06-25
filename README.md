@@ -1,5 +1,5 @@
 <h1 align="center">WebAutomationTests</h1>
-<h2 align="center">Java/Selenium/Gherkin/Cucumber/Junit</h2>
+<h2 align="center">Java/Selenium/Gherkin/Cucumber/JUnit</h2>
 
 
 The project involved creating automated test scripts for the websites olx.pl and saucedemo.com using Gherkin, Cucumber, Selenium, and JUnit. My primary goal of this project was to improve proficiency in writing test scripts.
