@@ -1,11 +1,6 @@
 @olx
 Feature: OLX account edit
 
-  /*
-  It turned out that OLX uses Captcha to prevent automated scripts from bypassing them.
-  I decided to respect the terms of service of OLX and therefore to stop the project
-  */
-
   @editProfile
   Scenario: A user can edit a name, localization and phone number
     Given User is on the main page
