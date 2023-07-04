@@ -15,4 +15,3 @@ I continued working on saucedemo.com and the other website as they were both cre
 I implemented the Page Object Pattern, to follow the good practices and to keep everything nice and organized, and Page Factory, to simplify the initialization of web elements and make the code more readable.
 
 
-<p align="center"><img src="sample_img.png" alt="Logo" width="700" height="600"></p>
