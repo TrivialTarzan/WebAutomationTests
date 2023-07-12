@@ -51,7 +51,7 @@ Each sceanrio has its own fixtures, e.g.:
 @saucedemo
 ```
 
-To run specific scenario, you have to change the value of 'tags' component in the @CucumberOptions annotation
+To run a specific scenario, you need to change the value of the 'tags' component in the @CucumberOptions annotation, in the ```src/test/java/github/TrivialTarzan/AllTests.java```:
 
 ```java
 @CucumberOptions(features = "src/Cucumber/Features/",'
