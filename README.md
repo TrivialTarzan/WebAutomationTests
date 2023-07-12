@@ -16,16 +16,24 @@ I implemented the Page Object Pattern, to follow the good practices and to keep 
 
 ## Directory Tree
 
-'''sh
-WebAutomationTests
-├── src
-│   ├── Cucumber
-│   │   └── Features
-├── src
-│   ├── test
-└── target
-    └── test-classes
-'''
+- WebAutomationTests
+  - src
+    - Cucumber
+      - Features
+  - src
+    - test
+      - java
+        - github
+          - TrivialTarzan
+  - target
+    - test-classes
+      - github
+        - TrivialTarzan
+  - pom.xml
+  - README.txt
+  - sample_img.png
+
+
 
 | File | Description |
 | ------ | ------ |
