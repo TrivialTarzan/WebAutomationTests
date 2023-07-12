@@ -14,4 +14,20 @@ I continued working on saucedemo.com and the other website as they were both cre
 
 I implemented the Page Object Pattern, to follow the good practices and to keep everything nice and organized, and Page Factory, to simplify the initialization of web elements and make the code more readable.
 
+## Directory Tree
+
+WebAutomationTests
+├── src
+│   ├── Cucumber
+│   │   └── Features
+├── src
+│   ├── test
+└── target
+    └── test-classes
+
+
+| File | Description |
+| ------ | ------ |
+| scr/Cucumber/Features/ | Here you'll find all the test scenarios |
+| src/test/| Page Objects/Classes executiong scenarios steps/AllTests file to run test |
 
