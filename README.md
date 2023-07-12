@@ -44,16 +44,16 @@ I implemented the Page Object Pattern, to follow the good practices and to keep 
 
 Each sceanrio has its own fixtures, e.g.:
 
-```
+```java
 @successful-purchase
 ```
-```
+```java
 @saucedemo
 ```
 
 To run specific scenario, you have to change the value of 'tags' component in the @CucumberOptions annotation
 
-```
+```java
 @CucumberOptions(features = "src/Cucumber/Features/",'
         'plugin = {"pretty","html:out"}, tags = "@successful-purchase")
 ```
