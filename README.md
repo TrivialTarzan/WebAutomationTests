@@ -22,16 +22,11 @@ I implemented the Page Object Pattern, to follow the good practices and to keep 
       - Features
   - src
     - test
-      - java
-        - github
-          - TrivialTarzan
+      - java/github/TrivialTarzan
   - target
-    - test-classes
-      - github
-        - TrivialTarzan
+    - test-classes/github/TrivialTarzan
   - pom.xml
   - README.txt
-  - sample_img.png
 
 
 
