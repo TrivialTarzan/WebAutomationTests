@@ -16,6 +16,7 @@ I implemented the Page Object Pattern, to follow the good practices and to keep 
 
 ## Directory Tree
 
+'''
 WebAutomationTests
 ├── src
 │   ├── Cucumber
@@ -24,7 +25,7 @@ WebAutomationTests
 │   ├── test
 └── target
     └── test-classes
-
+'''
 
 | File | Description |
 | ------ | ------ |
