@@ -16,7 +16,7 @@ I implemented the Page Object Pattern, to follow the good practices and to keep 
 
 ## Directory Tree
 
-'''
+'''sh
 WebAutomationTests
 ├── src
 │   ├── Cucumber
