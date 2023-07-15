@@ -7,12 +7,12 @@ The project involved creating automated test scripts for three websites: greenka
 It turned out that OLX uses Captcha to prevent automated scripts from bypassing them. I decided to respect it and to stop trying to get what's not mine. However, I uploaded the unfinished code- primarily to demonstrate my thought process. 
 I continued working on GreenKart and the other website as they were both created with the intention of helping people improve their skills in writing automated test scripts.
 
-- Gherkin was used as the specification language to write test scenarios
-- Cucumber was used as the framework for executing these scenarios 
-- Selenium was utilized as the automation tool to interact with the websites' elements, perform actions, and validate expected results 
-- JUnit was used to perform assertions to validate expected behavior
+- Gherkin- the specification language to write test scenarios
+- Cucumber- the framework for executing these scenarios 
+- Selenium- the automation tool to interact with the websites' elements and perform actions 
+- JUnit was used to validate expected results
 
-I implemented the Page Object Pattern, to follow the good practices and to keep everything nice and organized, and Page Factory, to simplify the initialization of web elements and make the code more readable.
+I implemented the Page Object Pattern, to follow the good practices and to keep everything nice and organized, and Page Factory, to simplify the initialization of web elements.
 
 ## Directory Tree
 
