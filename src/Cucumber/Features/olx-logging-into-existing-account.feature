@@ -4,7 +4,7 @@ Feature: OLX account edit
   @editProfile
   Scenario: A user can edit a name, localization and phone number
     Given User is on the main page
-    When User logs in using email: "rabarbeata.gibberish@pacz.to" and password: "GreenBlueOrange123"
+    When User logs in using email: "..." and password: "..."
     When User goes to the profile information edit page
     Then User sees the name set to "egg"
     And User sees the location set to "Sosnowiec"
