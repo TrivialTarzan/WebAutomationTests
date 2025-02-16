@@ -29,7 +29,7 @@ I implemented the Page Object Pattern, to follow the good practices and to keep 
 
 | File | Description |
 | ------ | ------ |
-| scr/Cucumber/Features/ | Contains all the test scenarios |
+| scr/Cucumber/Features/ | Contains the test scenarios |
 | src/test/| Includes page objects, classes executing scenario steps, and the `AllTests` file for running tests |
 
 ## Tests execution
