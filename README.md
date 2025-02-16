@@ -2,10 +2,7 @@
 <h2 align="center">Java/Selenium/Gherkin/Cucumber/JUnit</h2>
 
 
-The project involved creating automated test scripts for three websites: greenkart.com, olx.pl and saucedemo.com, using Gherkin, Cucumber, Selenium and JUnit.
-
-It turned out that OLX uses Captcha to prevent automated scripts from bypassing them. I decided to respect it and to stop trying to get what's not mine. However, I uploaded the unfinished code- primarily to demonstrate my thought process. 
-I continued working on GreenKart and the other website as they were both created with the intention of helping people improve their skills in writing automated test scripts.
+The project involved creating automated test scripts for three websites: greenkart.com and saucedemo.com, using Gherkin, Cucumber, Selenium and JUnit.
 
 - Gherkin- the specification language to write test scenarios
 - Cucumber- the framework for executing these scenarios 
